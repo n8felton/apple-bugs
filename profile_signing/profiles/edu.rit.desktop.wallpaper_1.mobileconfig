@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Desktop Wallpaper Settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Desktop Wallpaper Settings</string>
+			<key>PayloadIdentifier</key>
+			<string>edu.rit.desktop.wallpaper</string>
+			<key>PayloadOrganization</key>
+			<string>Rochester Institute of Technology</string>
+			<key>PayloadType</key>
+			<string>com.apple.desktop</string>
+			<key>PayloadUUID</key>
+			<string>7E865698-B0FF-44E7-95EE-999CCFCDC32D</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>locked</key>
+			<false/>
+			<key>override-picture-path</key>
+			<string>/Library/Desktop Pictures/Yosemite.jpg</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>RIT Desktop Settings</string>
+	<key>PayloadDisplayName</key>
+	<string>RIT Desktop Settings</string>
+	<key>PayloadIdentifier</key>
+	<string>edu.rit.desktop</string>
+	<key>PayloadOrganization</key>
+	<string>Rochester Institute of Technology</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>58F210BF-2723-4BC2-9BD8-9D3FCCC27F59</string>
+</dict>
+</plist>
