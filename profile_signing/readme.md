@@ -46,8 +46,9 @@ Now, let's install the newly signed profile.
 
 `sudo profiles -IF "profiles/edu.rit.desktop.wallpaper_3.mobileconfig"`
 
-![](screenshots/2018-03-15_3.30.48.png)
+You will notice that the profile remains `Unverified` and that it claims to still be signed by the previous `ITS OS X Profiles` certifcate, rather than the new `RIT ITS macOS Profiles` certificate.
 
+![](screenshots/2018-03-15_3.30.48.png)
 ![](screenshots/2018-03-15_3.30.54.png)
 
 If I completely remove the profile and re-add it, the Profiles Preference Pane shows the updated certificate as expected
@@ -58,5 +59,4 @@ sudo profiles -IF "profiles/edu.rit.desktop.wallpaper_3.mobileconfig"
 ```
 
 ![](screenshots/2018-03-15_3.45.40.png)
-
 ![](screenshots/2018-03-15_3.45.43.png)
